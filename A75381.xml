@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another bloudy fight at Colchester, on Tuesday night last, between his Majesties forces commanded by Gen. Lucas, and Col Lunsford, and the Parliaments forces; shewing the manner of their sallying upon their guards, with the number killed and taken, and a dangerous shot against the Lord Gen. Fairfax. Also, the resolution of Gen. Lucas and the forces rather to die like the sons of Mars valiantly, than to yeeld the town dishonorably, and their proceedings thereupon. with two other bloudy fights, and divers Colonels taken prisoners. Likewise, the L. Byrons proceedings in Wales, and his declaration for the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75381</idno>
+            <idno type="STC">Wing A3252</idno>
+            <idno type="STC">Thomason E460_34</idno>
+            <idno type="STC">ESTC R205134</idno>
+            <idno type="EEBO-CITATION">99864572</idno>
+            <idno type="PROQUEST">99864572</idno>
+            <idno type="VID">162152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another bloudy fight at Colchester, on Tuesday night last, between his Majesties forces commanded by Gen. Lucas, and Col Lunsford, and the Parliaments forces; shewing the manner of their sallying upon their guards, with the number killed and taken, and a dangerous shot against the Lord Gen. Fairfax. Also, the resolution of Gen. Lucas and the forces rather to die like the sons of Mars valiantly, than to yeeld the town dishonorably, and their proceedings thereupon. with two other bloudy fights, and divers Colonels taken prisoners. Likewise, the L. Byrons proceedings in Wales, and his declaration for the King.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the yeer,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wimg.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162152:1" rendition="simple:additions"/>
+            <p>Another bloudy FIGHT AT <hi>Colcheſter,</hi> on <hi>Tueſday</hi> night laſt, between his <hi>Majesties for<g ref="char:EOLhyphen"/>ces</hi> commanded by Gen. <hi>Lucas,</hi> and Col. <hi>Lunsford,</hi> and the <hi>Parliaments forces;</hi> ſhewing the manner of their ſallying out of the town, and falling upon their Guards, with the number killed and taken, and a dangerous ſhot againſt the Lord Gen. <hi>Fairfax.</hi> Alſo, the reſolution of Gen. <hi>Lucas</hi> and his Forces rather to die like the Sons of <hi>Mars</hi> valiantly, than to yeeld the town diſhonorably, and their procee<g ref="char:EOLhyphen"/>dings thereupon. With two other bloudy Fights, and di<g ref="char:EOLhyphen"/>vers <hi>Colonels</hi> taken priſoners. Likewiſe, the L. <hi>Byrons</hi> pro<g ref="char:EOLhyphen"/>ceedings in <hi>Wales,</hi> and his <hi>Declaration for the King.</hi>
+            </p>
+            <figure>
+               <figDesc>a finely dressed man on a horse holding a sword</figDesc>
+            </figure>
+            <p>Printed in the Yeer, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162152:2"/>
+            <pb n="1" facs="tcp:162152:2"/>
+            <head>NEW PROPOSITIONS FROM The Colcheſterian Shavers, to the Lord Gen. <hi>Fairfax,</hi> upon the arrivall of the ſad intelligence of the routing the Scots Army in the North; and their further reſolution touching the town.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">D</seg>Ivers of the Colcheſterians have deſerted their Lording Maſters, and tendred their ſervice to the Lord General, but his Ex<g ref="char:EOLhyphen"/>cellency would not accept thereof: this Evening we ſent them in their ſad ty<g ref="char:EOLhyphen"/>dings of the defeating of the Scottiſh ar<g ref="char:EOLhyphen"/>my, who upon receipt thereof, immedi<g ref="char:EOLhyphen"/>atly diſpatched a Trumpeter to the Lord General, with pro<g ref="char:EOLhyphen"/>poſitions for the ſurrendring of the Garriſon, together with all their arms and ammunition, except muſquet and ſword, three Bandaleers of powder, and a competent ptoportion
+<pb n="2" facs="tcp:162152:3"/>of match and bullet, which if condeſcended unto, Hoſtages ſhould be ſent forth, and articles agreed upon for the ſur<g ref="char:EOLhyphen"/>render, but his Excellency rejected this meſſage, being reſol<g ref="char:EOLhyphen"/>ved to ſtand it out, and to have moſt of them ſubmit to mer<g ref="char:EOLhyphen"/>cy.</p>
+            <p>Whereupon the Trumpeter returned, and delivered his Excellences anſwer to the Earl of <hi>Norwich,</hi> and Gen. <hi>Lucas,</hi> who upon reading thereof, began to grow into a great ago<g ref="char:EOLhyphen"/>ny, vowing revenge, and reſolved rather to die like Sonnes of <hi>Mars</hi> in the field, then to ſubmit baſely to the mercy of an enemy, and to ſurrender the town upon diſhonorable con<g ref="char:EOLhyphen"/>ditions: Therefore, to inlarge the Soldiers liberty, Generall <hi>Lucas,</hi> and Col. <hi>Lunsford</hi> takes upon them to be their Redee<g ref="char:EOLhyphen"/>mers, and ſallies forth with a conſiderable party of Horſe and Foot upon ſix of our Guards, about ten of the clock this Evening, thinking to ſurprize them all unawares, but by our Eagle-ey'd centinels they were diſcovered, and allarm'd the Guards, who ſoon were in a readineſſe to receive the Sha<g ref="char:EOLhyphen"/>vers, manning their Workes, and ſecuring their Line, and upon the neer approach of Gen. <hi>Lucas,</hi> we gave them a vol<g ref="char:EOLhyphen"/>ley, and fired ſix piece of Ordnance againſt them, being char<g ref="char:EOLhyphen"/>ged with key-ſhot, which did great execution: they anſwe<g ref="char:EOLhyphen"/>red us again, and began to advance towards our Turn pike, but finding the oppoſition too great, wheeled about, a party of our horſe and foot purſued them to the very ſally-ports, killed nine, and brought away ſeven priſoners, beſides their great loſſe upon the very firſt Onſet, ſuppoſing them to a<g ref="char:EOLhyphen"/>mount to the number of 25. occaſioned by the execution of the ſmall ſhot.</p>
+            <p>In this action we loſt about eleven men, 7 ſlain, and foure wounded.</p>
+            <pb n="3" facs="tcp:162152:3"/>
+            <p>The Inhabitants are in great diſtreſſe, and ſo are moſt of the ſouldiers, yet they remain both obſtinate and inſolent, and ſay, unleſſe they may have good con<g ref="char:EOLhyphen"/>ditions, they are reſolved to ſacrifice their lives to the laſt man, and to maintain their Works, and diſpute the town to the laſt drop of bloud, but we doubt not, but famine will ſoon force them to the worſt of conditi<g ref="char:EOLhyphen"/>ons, rather then to hazard our Army by ſtorm.</p>
+            <p>VVe have all things in readineſſe for a ſtorm, our Mines are quite finiſhed, and our trenches ſo neer the walls, that we annoy each other with ſtones, the ene<g ref="char:EOLhyphen"/>my hath countermined us neer the Eaſt gate, and tooke one of our Mines, and five of the Pioneers: our Batte<g ref="char:EOLhyphen"/>ries are alſo quite finiſhed, and the great Guns planted and have made ſeverall Breaches in the walls, but they have made them up again with wool-packs.</p>
+            <p>Col. <hi>Rains borough</hi> hath made many a gallant ſhot a<g ref="char:EOLhyphen"/>gainſt their great Mount neer St. <hi>Maries</hi> Church, diſ<g ref="char:EOLhyphen"/>mounted three piece of Canon, killed two Gunners, and a Metroſe.</p>
+            <p>His Excellency being advertized that the Mounts were all finiſhed, and the Ordnance planted, reſolved to take a view of them which accordingly he did, di<g ref="char:EOLhyphen"/>vers Colonels and other Officers accompanying him to the ſaid Fortification, and upon his Excellencies going into one of the Forts neer Eaſt Gate, the enemy diſcharged a Drake with Caſe ſhot, which ſcattered Dirt upon him and his attendants, hurt an Officer in the face by the rebcunding of a ſtone, but did none of the reſt any harm.</p>
+            <pb n="4" facs="tcp:162152:4"/>
+            <p>The Earle of Norwich, Lord Capel. Sir Charles Lucas, and the reſt of the Officers in the Towne, ſent a letter to the Lord Fairfax wherein they deſire 20 dayes leave to addreſſe themſelves to the Prince, and if things goe not ſuitable to their deſires, then &amp;c. This Letter was received by the Generall, and anſwer was returned by a Trumpetter, though not according to the expectation of the beſieged. Hunger bites thoſe in the towne, and their deſires not being granted, if the old proverbe be true, that <hi>hunger breaks ſtone walls,</hi> ſome are of opinion, that men of that deſparate condi<g ref="char:EOLhyphen"/>tion will endeavour to break the line once againe, be<g ref="char:EOLhyphen"/>fore they ſubmit, but more danger is in attempting a quick line (to hold out the proverb) then a dead wall; for the Generall hath fitted al things for a ſtorm if occaſion be, and is every minute ſo well pro<g ref="char:EOLhyphen"/>vided to receive the Enemy if they ſally forth that if the diſtreſled co<g ref="char:cmbAbbrStroke">̄</g>dition of the beſieged ſhould put them upon any deſperate deſign is more probable they will be acceſſary to haſten their utter deſtruction then that that any of them ſhould deliver themſelves by an eſ<g ref="char:EOLhyphen"/>cape.</p>
+            <div type="part">
+               <head>A great Victory in Hereford-ſhire.</head>
+               <p>Letters out of Hereford-ſhire, ſay, that there was a late fight between a party of horſe for the Parliament commanded by Maj. Harley and a party for the King commanded by Sir Henry Linging, in which its ſaid Sir Henry Linging had the better at the firſt but Maj. Harley having a reſerve charged with great gallantry, reſcued ſome priſoners, tooke many other of the ad<g ref="char:EOLhyphen"/>verſe party, and divers Officers; amongſt whom it is
+<pb n="5" facs="tcp:162152:4"/>ſaid Sir Henry Lingen himſelf is one, and ten Liev<g ref="char:EOLhyphen"/>tenant colonels, Majors, and Captains.</p>
+               <p>By Letters from Stafford it is advertized, that Col. <hi>Stepkins</hi> formerly a Commander in the Kings Army, had a deſign to have ſurprized the ſaid Town and Ca<g ref="char:EOLhyphen"/>ſtle for the King, the place of Randezvouz was two miles diſtant from the town, where a great number of Royaliſts were gathered in a head together, in the night time, and intended to have put their deſign ia execution the next morning; but by the revolting of two Gen<g ref="char:EOLhyphen"/>tlemen, who diſcovered the ſame to Capt. <hi>Stone</hi> in the nick of time, the plot was diſcovered, and the Gover<g ref="char:EOLhyphen"/>nour, with a party of horſe and foot, about two in the morning, marched to the ſaid place of Randezvouz, fel upon them in their quarters, killed Colonel <hi>Stepkins</hi> and ſeven more, wounded many, and took divers pri<g ref="char:EOLhyphen"/>ſoners of quality, with the loſſe of two men.</p>
+               <p>Other letters from Northampton ſhire ſay, that the Royaliſts in thoſe parts have been a long time com<g ref="char:EOLhyphen"/>plotting and aſſociating themſelves together, and have had ſeverall randezvouzes neer Stanford, and upon Friday laſt declared for the <hi>King,</hi> but having intelli<g ref="char:EOLhyphen"/>gence of the great Overthrow in the North, ſoone changed their reſolutions, and diſperſed themſelves in<g ref="char:EOLhyphen"/>to ſeverall parts of the County, ſo that all things now are in a peaceable condition.</p>
+               <closer>
+                  <dateline>
+                     <hi>Northampton</hi>
+                     <date>22 <hi>August</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:162152:5"/>
+               <head>The further proceedings of the Lord <hi>Byron</hi> in <hi>Wales,</hi> and his Declaration to the <hi>Welſh-men</hi> to riſe for the King.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe Lord <hi>Byron</hi> is very active in theſe parts for the raiſing of Forces for the <hi>King,</hi> he hath ſet forth a Declaration to the Country, declaring the grounds and reaſons of his engagement, and his deſires to free the ſubject from oppreſſion, and to reinveſt his Royall Majeſty in his juſt rights and priviledges, to maintaine monarchicall government, and to eſtabliſh Religion, and the fundamentall lawes of the kingdome, &amp;c. and therefore deſires their aſſiſtance, for to engage with him therein. But as yet few makes their appearance, and his numbers are but ſmall.</p>
+               <closer>
+                  <dateline>
+                     <hi>Carnarvan</hi>
+                     <date>21 <hi>Aug.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
